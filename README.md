@@ -1,3 +1,3 @@
 # conflict
 First change
-local change
+local change + 2nd local
