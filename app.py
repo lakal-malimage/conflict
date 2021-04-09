@@ -1,1 +1,1 @@
-print ("Hello local")
+print ("Hello from remote")
